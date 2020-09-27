@@ -5,3 +5,4 @@ Cisnux Resolusi
 -Dalam Waktu 2 tahun sudah mampu membuat project mobile programming
 -Sebelum 2 tahun kuliah sudah mampu freelance mambuat program
 -Bekerja sebagai data engineer atau multi platform developer
+-Membuat mobile application with machine learning
