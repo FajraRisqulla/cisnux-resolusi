@@ -1,6 +1,6 @@
 -Rencana Mobile Programming
-
 -Membuat project pertama
 -belajar fluter
--belajar android studio
--belajar pyhton
+  - Menggunakan bahasa dart
+-belajar backend
+-belajar visualisasi data
