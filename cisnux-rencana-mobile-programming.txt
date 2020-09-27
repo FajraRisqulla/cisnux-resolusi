@@ -3,4 +3,5 @@
 -Membuat project pertama
 -belajar fluter
   - Menggunakan bahasa dart
+-belajar backend
 -belajar visualisasi data
