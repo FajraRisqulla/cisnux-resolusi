@@ -2,4 +2,5 @@
 
 -Membuat project pertama
 -belajar fluter
--belajar visualisasi data
+-belajar android studio
+-belajar pyhton
