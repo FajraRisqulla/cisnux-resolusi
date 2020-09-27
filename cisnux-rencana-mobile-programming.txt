@@ -2,3 +2,4 @@
 
 -Membuat project pertama
 -belajar fluter
+-belajar visualisasi data
